@@ -6,8 +6,9 @@ Welcome to my GitHub profile!
 
 I'm Alec, a passionate web developer focused on building modern, interactive, and efficient web applications.
 
-- 💡  Always learning and experimenting with new tech.
-- 🤝  Open to collaboration and interesting projects.
+- 🎓 Graduated in Information Technology from Our Lady of Fatima University
+- 💡 Always learning and experimenting with new tech
+- 🤝 Open to collaboration and interesting projects
 
 ## 🛠️ Tech Stack
 
@@ -35,6 +36,10 @@ VS Code, Git & GitHub, Postman, Node.js & npm
 - [LinkedIn](https://www.linkedin.com/in/nrquiambao/)
 - [Twitter](https://x.com/naxrobillos)
 - [Facebook](https://www.facebook.com/nwllxlec/)
+
+## 🎉 Fun Fact
+
+I can spend hours debugging code and still get excited when I finally solve the problem—it's like finding hidden treasure every time!
 
 ---
 
