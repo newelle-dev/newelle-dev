@@ -19,7 +19,7 @@ HTML, CSS, JavaScript (JS), TypeScript (TS)
 Next.js, React.js, Vite, Tailwind CSS, Bootstrap
 
 **Backend:**  
-Express.js
+Node.js, Express.js
 
 **Database:**  
 PostgreSQL, MongoDB, SQLite, MySQL
