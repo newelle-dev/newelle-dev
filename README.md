@@ -46,6 +46,6 @@ I can spend hours debugging code and still get excited when I finally solve the 
 ## 🌐 Portfolio
 
 Check out my latest work:
-- **[My Portfolio Website](https://personal-portfolio-4lecboys-projects.vercel.app/)** - Modern React portfolio with dark/light theme toggle, built with Vite and Tailwind CSS
+- **[My Portfolio Website](https://newelle-portfolio.vercel.app/)** - Modern React portfolio with dark/light theme toggle, built with Vite and Tailwind CSS
 
 Thanks for visiting my profile!
