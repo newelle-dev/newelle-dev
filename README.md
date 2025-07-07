@@ -40,20 +40,6 @@ const Alec = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare,bun,docker,npm,pnpm,redis,sentry,vitest"/>
 </p>
 
-
-
-
-
-## 📊 GitHub Stats
-
-![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lecboy&show_icons=true&hide_title=true)
-
-## 🔗 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/nrquiambao/)
-- [Twitter](https://x.com/naxrobillos)
-- [Facebook](https://www.facebook.com/nwllxlec/)
-
 ## 🎉 Fun Fact
 
 I can spend hours debugging code and still get excited when I finally solve the problem—it's like finding hidden treasure every time!
