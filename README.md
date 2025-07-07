@@ -40,9 +40,7 @@ const Alec = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare,bun,docker,npm,pnpm,redis,sentry,vitest"/>
 </p>
 
-<!--END_SECTION:waka-->
 
----
 
 
 
@@ -68,3 +66,7 @@ Check out my latest work:
 - **[My Portfolio Website](https://newelle-portfolio.vercel.app/)** - Modern React portfolio with dark/light theme toggle, built with Vite and Tailwind CSS
 
 Thanks for visiting my profile!
+
+<!--END_SECTION:waka-->
+
+---
