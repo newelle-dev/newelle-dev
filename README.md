@@ -2,7 +2,7 @@
 
 ## About Me
 ```typescript
-const Olga = {
+const Alec = {
   role: "",
   focus: "Full Stack Development",
   passion: "Prototype fast, fail faster, learn fastest"
