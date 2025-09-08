@@ -26,16 +26,10 @@ const Alec = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI & Generative UI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=white)
-</div>
-
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,git,nodejs,postgres,postman,tailwind,vscode,visualstudio,vercel,vite,supabase,prisma,powershell,mysql,express,npm,"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,git,nodejs,postgres,postman,tailwind,vscode,vercel,vite,supabase,prisma,powershell,mysql,express,npm,"/>
 </p>
 
 ## 🎉 Fun Fact
