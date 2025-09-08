@@ -3,9 +3,9 @@
 ## About Me
 ```typescript
 const Alec = {
-  role: "",
-  focus: "Full Stack Development",
-  passion: "Prototype fast, fail faster, learn fastest"
+  role: "Web Developer",
+  focus: ["React", "Next.js", "Node.js"],
+  passion: "Building real-world apps and growing as a developer."
 };
 ```
 
