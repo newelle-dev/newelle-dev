@@ -1,11 +1,13 @@
-> *"Exploring what sticks by sharing what doesn’t."*
+> *"Still learning. Still building. Always improving."*
 
 ## About Me
 ```typescript
 const Alec = {
-  role: "Web Developer",
-  focus: ["React", "Next.js", "Node.js"],
-  passion: "Building real-world apps and growing as a developer."
+  name: "Newelle Alec Quiambao",
+  role: "Frontend Developer",
+  techFocus: ["React", "Next.js", "Node.js", "Tailwind CSS"],
+  mission: "To build real-world, user-focused web applications and continuously grow as a developer.",
+  currently: "Building personal projects and expanding my portfolio.",
 };
 ```
 
@@ -23,6 +25,7 @@ const Alec = {
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3>My Languages and Tools:</h3>
 
@@ -37,11 +40,16 @@ I can spend hours debugging code and still get excited when I finally solve the 
 ---
 
 ## 🌐 Portfolio
-
-Check out my latest work:
-- **[My Portfolio Website](https://newelle-portfolio.vercel.app/)** - Modern React portfolio with dark/light theme toggle, built with Vite and Tailwind CSS
+🎨 **[newelle-portfolio.vercel.app](https://newelle-portfolio.vercel.app/)**  
+A modern, responsive portfolio built with **Vite + React + Tailwind CSS** featuring dark/light mode and clean animations.
 
 Thanks for visiting my profile!
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nrquiambao)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4lecboy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nrquiambao1499@gmail.com)
+
 
 <!--END_SECTION:waka-->
 
