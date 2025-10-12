@@ -40,7 +40,7 @@ I can spend hours debugging code and still get excited when I finally solve the 
 ---
 
 ## 🌐 Portfolio
-🎨 **[newelle-portfolio.vercel.app](https://newelle-portfolio.vercel.app/)**  
+🎨 **[newelle-portfolio.vercel.app](https://newelle-dev.vercel.app/)**  
 A modern, responsive portfolio built with **Vite + React + Tailwind CSS** featuring dark/light mode and clean animations.
 
 Thanks for visiting my profile!
