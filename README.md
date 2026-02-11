@@ -41,7 +41,7 @@ I can spend hours debugging code and still get excited when I finally solve the 
 ---
 
 ## 🌐 Portfolio
-🎨 **[Newelle.Dev](https://newelle-dev.vercel.app/)**  
+🎨 **[Newelle.Dev](https://newelle-dev-v2.vercel.app/)**  
 A modern, responsive portfolio built with **Vite + React + Tailwind CSS** featuring dark/light mode and clean animations.
 
 Thanks for visiting my profile!
