@@ -2,12 +2,13 @@
 
 ## About Me
 ```typescript
-const Alec = {
+const newelle = {
   name: "Newelle Alec Quiambao",
-  role: "Frontend Developer",
-  techFocus: ["React", "Next.js", "Node.js", "Tailwind CSS"],
-  mission: "To build real-world, user-focused web applications and continuously grow as a developer.",
-  currently: "Building personal projects and expanding my portfolio.",
+  role: "Fullstack Web Developer",
+  techStack: ["Next.js", "TypeScript", "React", "Supabase"],
+  focus: "Building scalable fullstack applications",
+  expertise: ["App Router", "PostgreSQL", "Authentication", "Tailwind CSS"],
+  status: "Open to opportunities"
 };
 ```
 
