@@ -30,7 +30,7 @@ const newelle = {
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,nodejs,express,prisma,mongodb,postgres,mysql,git,npm,postman,vscode,antigravity,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,nodejs,express,prisma,mongodb,postgres,mysql,git,npm,postman,vscode,vercel" />
 </p>
 
 ## 🎉 Fun Fact
