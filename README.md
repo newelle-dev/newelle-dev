@@ -4,10 +4,9 @@
 ```typescript
 const newelle = {
   name: "Newelle Alec Quiambao",
-  role: "Fullstack Web Developer",
-  techStack: ["Next.js", "TypeScript", "React", "Supabase"],
-  focus: "Building scalable fullstack applications",
-  expertise: ["App Router", "PostgreSQL", "Authentication", "Tailwind CSS"],
+  role: "Frontend Engineer (Full-stack Foundation)",
+  techStack: ["Next.js", "TypeScript", "React", "Node.js", "Tailwind CSS", "PostgreSQL"],
+  focus: "Building business-critical fullstack products that improve operations",
   status: "Open to opportunities"
 };
 ```
@@ -31,7 +30,7 @@ const newelle = {
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,nodejs,express,prisma,mongodb,postgres,mysql,git,npm,postman,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,nodejs,express,prisma,mongodb,postgres,mysql,git,npm,postman,vscode,antigravity,vercel" />
 </p>
 
 ## 🎉 Fun Fact
@@ -42,7 +41,7 @@ I can spend hours debugging code and still get excited when I finally solve the 
 
 ## 🌐 Portfolio
 🎨 **[Newelle.Dev](https://newelle-dev-v2.vercel.app/)**  
-A modern, responsive portfolio built with **Vite + React + Tailwind CSS** featuring dark/light mode and clean animations.
+Modern, responsive Next.js + Tailwind portfolio showcasing projects, Shopify work, and contact — built with TypeScript and Framer Motion.
 
 Thanks for visiting my profile!
 
