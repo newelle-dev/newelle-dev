@@ -4,10 +4,10 @@
 ```typescript
 const newelle = {
   name: "Newelle Alec Quiambao",
-  role: "Frontend Engineer (Full-stack Foundation)",
+  role: "Full-Stack Developer",
   techStack: ["Next.js", "TypeScript", "React", "Node.js", "Tailwind CSS", "PostgreSQL"],
-  focus: "Building business-critical fullstack products that improve operations",
-  status: "Open to opportunities"
+  focus: "Full Stack Web Application",
+  status: "Open to remote opportunities"
 };
 ```
 
@@ -22,15 +22,22 @@ const newelle = {
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Database
+### Database & Backend-as-a-Service
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & Generative UI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-05F?style=for-the-badge&logo=framer&logoColor=white)
+</div>
 
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite,nodejs,express,prisma,mongodb,postgres,mysql,git,npm,postman,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,antigravity,vercel,vite,supabase,prisma,powershell,mysql,md,firebase,express,electron,cloudflare,bun,docker,npm,redis,sentry,vitest"/>
 </p>
 
 ## 🎉 Fun Fact
@@ -41,7 +48,6 @@ I can spend hours debugging code and still get excited when I finally solve the 
 
 ## 🌐 Portfolio
 🎨 **[Newelle.Dev](https://newelle-dev-v2.vercel.app/)**  
-Modern, responsive Next.js + Tailwind portfolio showcasing projects, Shopify work, and contact — built with TypeScript and Framer Motion.
 
 Thanks for visiting my profile!
 
