@@ -37,7 +37,7 @@ const newelle = {
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,antigravity,vercel,vite,supabase,prisma,powershell,mysql,md,firebase,express,electron,cloudflare,bun,docker,npm,redis,sentry,vitest"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,vercel,vite,supabase,prisma,powershell,mysql,md,firebase,express,electron,cloudflare,bun,docker,npm,redis,sentry,vitest"/>
 </p>
 
 ## 🎉 Fun Fact
