@@ -1,4 +1,4 @@
-> *"Still learning. Still building. Always improving."*
+> *"Build. Break. Debug. Learn. Repeat."*
 
 ## About Me
 ```typescript
@@ -6,7 +6,7 @@ const newelle = {
   name: "Newelle Alec Quiambao",
   role: "Full-Stack Developer",
   techStack: ["Next.js", "TypeScript", "React", "Node.js", "Tailwind CSS", "PostgreSQL"],
-  focus: "Full Stack Web Application",
+  focus: "Web Applications, Business Systems",
   status: "Open to remote opportunities"
 };
 ```
@@ -37,7 +37,7 @@ const newelle = {
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,vercel,vite,supabase,prisma,powershell,mysql,md,firebase,express,electron,cloudflare,bun,docker,npm,redis,sentry,vitest"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,git,nodejs,postgres,postman,py,tailwind,vscode,vercel,vite,supabase,prisma,powershell,mysql,md,express,docker,npm"/>
 </p>
 
 ## 🎉 Fun Fact
